@@ -145,3 +145,9 @@ footer form input[type='submit']{
 footer form input[type='submit']:hover{
 	background: red;
 }
+footer .footer-grid{
+	margin: 10px;
+}
+footer p{
+	color: white;
+}
