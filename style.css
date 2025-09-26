@@ -147,6 +147,7 @@ footer form input[type='submit']:hover{
 }
 footer .footer-grid{
 	margin: 10px;
+	width: 33%;
 }
 footer p{
 	color: white;
